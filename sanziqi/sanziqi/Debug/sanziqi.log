@@ -1,0 +1,29 @@
+﻿  game.c
+D:\AA\sanziqi\sanziqi\game.h(2,1): error C2008: “=”: 宏定义中的意外
+D:\AA\sanziqi\sanziqi\game.h(3,1): error C2008: “=”: 宏定义中的意外
+D:\AA\sanziqi\sanziqi\game.h(5,26): error C2143: 语法错误: 缺少“]”(在“;”的前面)
+D:\AA\sanziqi\sanziqi\game.h(5,26): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\AA\sanziqi\sanziqi\game.h(5,29): error C2059: 语法错误:“]”
+D:\AA\sanziqi\sanziqi\game.h(5,34): error C2059: 语法错误:“]”
+D:\AA\sanziqi\sanziqi\game.h(5,53): error C2059: 语法错误:“)”
+D:\AA\sanziqi\sanziqi\game.c(4,26): error C2143: 语法错误: 缺少“]”(在“;”的前面)
+D:\AA\sanziqi\sanziqi\game.c(4,26): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\AA\sanziqi\sanziqi\game.c(4,29): error C2059: 语法错误:“]”
+D:\AA\sanziqi\sanziqi\game.c(4,34): error C2059: 语法错误:“]”
+D:\AA\sanziqi\sanziqi\game.c(4,53): error C2059: 语法错误:“)”
+  test.c
+D:\AA\sanziqi\sanziqi\game.h(2,1): error C2008: “=”: 宏定义中的意外
+D:\AA\sanziqi\sanziqi\game.h(3,1): error C2008: “=”: 宏定义中的意外
+D:\AA\sanziqi\sanziqi\game.h(5,26): error C2143: 语法错误: 缺少“]”(在“;”的前面)
+D:\AA\sanziqi\sanziqi\game.h(5,26): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\AA\sanziqi\sanziqi\game.h(5,29): error C2059: 语法错误:“]”
+D:\AA\sanziqi\sanziqi\game.h(5,34): error C2059: 语法错误:“]”
+D:\AA\sanziqi\sanziqi\game.h(5,53): error C2059: 语法错误:“)”
+D:\AA\sanziqi\sanziqi\test.c(14,13): error C2143: 语法错误: 缺少“]”(在“;”的前面)
+D:\AA\sanziqi\sanziqi\test.c(14,16): error C2143: 语法错误: 缺少“;”(在“]”的前面)
+D:\AA\sanziqi\sanziqi\test.c(14,21): error C2143: 语法错误: 缺少“;”(在“]”的前面)
+D:\AA\sanziqi\sanziqi\test.c(16,19): warning C4020: “InitBoard”: 实参太多
+D:\AA\sanziqi\sanziqi\test.c(16,19): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\AA\sanziqi\sanziqi\test.c(16,22): error C2143: 语法错误: 缺少“;”(在“,”的前面)
+D:\AA\sanziqi\sanziqi\test.c(16,27): error C2059: 语法错误:“)”
+  正在生成代码...
