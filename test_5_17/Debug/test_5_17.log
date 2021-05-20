@@ -1,6 +1,2 @@
-﻿  继承同名静态成员.cpp
-D:\AA\My_digital\test_5_17\继承同名静态成员.cpp(32,4): warning C4551: 缺少参数列表的函数调用
-D:\AA\My_digital\test_5_17\继承同名静态成员.cpp(33,4): warning C4551: 缺少参数列表的函数调用
-D:\AA\My_digital\test_5_17\继承同名静态成员.cpp(34,7): warning C4551: 缺少参数列表的函数调用
-D:\AA\My_digital\test_5_17\继承同名静态成员.cpp(35,13): warning C4551: 缺少参数列表的函数调用
+﻿  文件操作.cpp
   test_5_17.vcxproj -> D:\AA\My_digital\test_5_17\Debug\test_5_17.exe
